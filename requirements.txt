@@ -1,8 +1,6 @@
-Pandas: 2.2.3
-NumPy: 1.26.4
-Scikit-learn: 1.8.0
-Matplotlib: 3.9.3
-Seaborn: 0.13.2
-NLTK: 3.9.1
-Joblib: 1.5.1
-Streamlit: 1.57.0
+streamlit
+pandas
+numpy
+scikit-learn
+nltk
+joblib
